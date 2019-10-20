@@ -1,6 +1,6 @@
 {
     "build": {
-        "@saveall": true
+        "@saveall": false
     },
     "language": {
         "tern_defs": {
